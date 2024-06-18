@@ -20,6 +20,7 @@ requirements
 * sentence-transformers==2.2.2
 * pinecone-client
 * flask
+```
 
 3. Download the Llama 2, `llama-2-7b-chat.ggmlv3.q4_0.bin`, model from Hugging Face through this link:
 ```bash
