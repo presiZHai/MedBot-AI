@@ -17,7 +17,7 @@ pip install -r requirements.txt
 requirements
 * langchain==0.0.225
 * ctransformers==0.2.5
-* sentence-transformers==2.2.2
+* sentence-transformers==2.2.2clear
 * pinecone-client
 * flask
 
