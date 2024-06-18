@@ -13,4 +13,11 @@ conda activate medbot
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+requirements
+* langchain==0.0.225
+* ctransformers==0.2.5
+* sentence-transformers==2.2.2
+* pinecone-client
+* flask
 
