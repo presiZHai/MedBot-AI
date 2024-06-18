@@ -19,7 +19,10 @@ requirements
 * ctransformers==0.2.5
 * sentence-transformers==2.2.2
 * pinecone-client
+* langchain-pinecone
 * flask
+* python-dotenv
+* pypdf
 ```
 
 3. Download the Llama 2, `llama-2-7b-chat.ggmlv3.q4_0.bin`, model from Hugging Face through this link:
